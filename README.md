@@ -1,2 +1,1 @@
-# progress-of-studying
-# progress-of-studying
+# This is my progress of studying!
